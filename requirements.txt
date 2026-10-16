@@ -1,0 +1,2 @@
+django
+workers-py>=1.9.0
